@@ -1,0 +1,6 @@
+applicationType: function
+defaultPackage: telegrambot
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle_kotlin
+features: [app-name, arm, aws-cdk, aws-lambda, aws-lambda-events-serde, aws-lambda-function-url, aws-lambda-handler-function, gradle, http-client-test, java, junit, logback, micronaut-build, properties, readme, serialization-jackson, shade]
